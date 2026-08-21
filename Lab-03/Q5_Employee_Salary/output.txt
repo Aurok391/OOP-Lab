@@ -1,0 +1,12 @@
+Enter employee name: Rahul Kumar
+Enter designation: Software Engineer
+Enter basic pay: 20000
+
+Employee Salary Details
+Name: Rahul Kumar
+Designation: Software Engineer
+Basic Pay: 20000.00
+TA (10%): 2000.00
+DA (15%): 3000.00
+HRA (20%): 4000.00
+Gross Pay: 29000.00

@@ -1,0 +1,2 @@
+Enter a 3-digit number: 345
+Sum of digits = 12

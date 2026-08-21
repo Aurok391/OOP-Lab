@@ -1,0 +1,2 @@
+Enter a number: 1221
+1221 is a palindrome number.
