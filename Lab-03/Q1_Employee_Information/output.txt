@@ -1,0 +1,12 @@
+Enter employee name: Rahul Kumar
+Enter employee code: E101
+Enter designation: Software Engineer
+Enter years of experience: 3
+Enter age: 25
+
+Employee Information
+Name: Rahul Kumar
+Code: E101
+Designation: Software Engineer
+Years of Experience: 3
+Age: 25
