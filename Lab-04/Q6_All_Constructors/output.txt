@@ -1,0 +1,6 @@
+Default constructor called.
+Value = 0
+Parameterized constructor called.
+Value = 100
+Copy constructor called.
+Value = 100

@@ -1,0 +1,13 @@
+Enter first 3 x 3 matrix:
+1 2 3
+4 5 6
+7 8 9
+Enter second 3 x 3 matrix:
+9 8 7
+6 5 4
+3 2 1
+
+Sum of matrices:
+10 10 10
+10 10 10
+10 10 10

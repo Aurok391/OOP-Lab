@@ -1,0 +1,10 @@
+Enter first time:
+Enter hours: 2
+Enter minutes: 45
+Enter seconds: 30
+Enter second time:
+Enter hours: 3
+Enter minutes: 20
+Enter seconds: 40
+
+Total time = 6 hours 6 minutes 10 seconds

@@ -1,0 +1,4 @@
+Enter number of elements: 5
+Enter elements: 10 20 30 40 50
+Array elements: 10 20 30 40 50
+Sum of elements = 150
