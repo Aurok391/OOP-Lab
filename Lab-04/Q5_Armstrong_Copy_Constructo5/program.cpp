@@ -19,13 +19,26 @@ Armstrong::Armstrong(const Armstrong &obj) {
 }
 
 bool Armstrong::isArmstrong() {
-    int n = number;
+    int temp = number;
+    int digits = 0;
     int sum = 0;
 
-    while (n != 0) {
-        int digit = n % 10;
-        sum += digit * digit * digit;
-        n /= 10;
+    while (temp != 0) {
+        digits++;
+        temp /= 10;
+    }
+    
+    temp = number;
+
+    while (temp != 0) {
+        int digit = temp % 10;
+        int power = 1;
+
+        for (int i = 0; i < digits; i++)
+            power *= digit;
+
+        sum += power;
+        temp /= 10;
     }
 
     return sum == number;
@@ -38,7 +51,7 @@ int main() {
     cin >> n;
 
     Armstrong obj1(n);
-    Armstrong obj2(obj1);  // Copy constructor
+    Armstrong obj2(obj1);  
 
     if (obj2.isArmstrong())
         cout << n << " is an Armstrong number." << endl;
@@ -47,3 +60,4 @@ int main() {
 
     return 0;
 }
+
