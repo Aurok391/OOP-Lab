@@ -36,8 +36,8 @@ int sum(Array *obj) {
 }
 
 int main() {
-    Array obj;                 // Constructor is called
-    Array *ptr = &obj;         // Object pointer
+    Array obj;                 
+    Array *ptr = &obj;         
 
     ptr->display();
 
