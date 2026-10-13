@@ -1,0 +1,3 @@
+Smart Home Hub
+Connecting through Wi-Fi.
+Connecting through Bluetooth.
