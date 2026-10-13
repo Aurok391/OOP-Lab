@@ -1,0 +1,7 @@
+Savings Account
+Balance: 1000.00
+Savings interest: 40.00
+
+Checking Account
+Balance: 750.00
+Account type: Checking Account
