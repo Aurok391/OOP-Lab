@@ -13,3 +13,5 @@ Labs included:
 - Lab-02: Number, pattern, and array programs
 - Lab-03: Functions, arrays, matrices, and employee programs
 - Lab-04: Friend function programs, Constructors, copy constructor, and object pointer programs
+- Lab-05: Single and multiple inheritance programs
+- Lab-06: Multilevel, hierarchical, and hybrid inheritance programs
