@@ -1,0 +1,16 @@
+Enter student name: Rahul Sharma
+Enter roll number: 23
+Enter number of enrolled subjects (1-10): 3
+Enter marks for subject 1: 85
+Enter marks for subject 2: 91
+Enter marks for subject 3: 78
+Enter CGPA (out of 10): 8.5
+
+--- Student Details ---
+Name: Rahul Sharma
+Roll number: 23
+Enrolled subjects: 3
+Subject 1 marks: 85.00
+Subject 2 marks: 91.00
+Subject 3 marks: 78.00
+CGPA: 8.50/10
