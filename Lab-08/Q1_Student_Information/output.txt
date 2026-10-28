@@ -1,0 +1,19 @@
+Enter student name: Rahul Sharma
+Enter roll number: 23
+Enter number of subjects (1-10): 3
+Enter subject 1 name: Mathematics
+Enter marks for Mathematics (0-100): 85
+Enter subject 2 name: Physics
+Enter marks for Physics (0-100): 91
+Enter subject 3 name: Programming
+Enter marks for Programming (0-100): 78
+Enter CGPA (out of 10): 8.5
+
+--- Student Information ---
+Name: Rahul Sharma
+Roll number: 23
+Subjects enrolled: 3
+Mathematics - 85.00/100
+Physics - 91.00/100
+Programming - 78.00/100
+CGPA: 8.50/10
