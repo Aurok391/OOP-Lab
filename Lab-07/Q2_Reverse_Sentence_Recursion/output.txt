@@ -1,2 +1,0 @@
-Enter a sentence: Hello World
-Reversed sentence: dlroW olleH
