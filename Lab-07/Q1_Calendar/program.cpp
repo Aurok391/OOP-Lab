@@ -7,7 +7,6 @@ bool isLeapYear(int year) {
     return year % 400 == 0 || (year % 4 == 0 && year % 100 != 0);
 }
 
-// 0 = Sunday, 1 = Monday, ..., 6 = Saturday
 int firstDayOfYear(int year) {
     int y = year - 1;
     return (y * 365 + y / 4 - y / 100 + y / 400 + 1) % 7;
